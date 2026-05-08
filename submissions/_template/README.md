@@ -2,22 +2,22 @@
 
 ## Track / 赛道
 
-<!-- 选择一个赛道，删除其他 / Select one track, remove others -->
+<!-- 选择一个赛道，把 [ ] 改成 [x] / Select one track -->
 
+- [ ] AI/Native
 - [ ] DeFi & Payments
-- [ ] Agentic Web (AI)
 - [ ] DeepBook
 - [ ] Walrus
 
 ## Description / 项目简介
 
-<!-- 用一段话描述你的项目 / Describe your project in a paragraph -->
+<!-- 一段话描述你的项目：做什么，为什么重要 / What it does, why it matters -->
 
 ## Links / 链接
 
 - GitHub: https://github.com/...
-- Demo: https://...
-- Video: https://... (optional)
+- Demo Video: https://... (YouTube, ≤ 5 min)
+- Website: https://... (optional)
 
 ## Team / 团队成员
 
@@ -26,10 +26,9 @@
 - @your-github-id
 - @teammate-github-id
 
-## Contract Address / 合约地址
+## Deployment / 部署信息
 
-<!-- 如已部署到 Sui，填写合约包 ID / If deployed on Sui, fill in the package ID -->
+<!-- 填写部署环境和合约地址 / Fill in deployment env and package ID -->
 
-```
-0x...
-```
+- Env: Testnet / Mainnet
+- Package ID: `0x...`

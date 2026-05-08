@@ -2,9 +2,9 @@
 
 **去中心化金融与支付**
 
-Build next-gen DeFi and payment apps on Sui. This track covers decentralized finance protocols, payment rails, wallet infrastructure, BTCFi, and novel uses for BTC bridging to Sui.
+Build programmable payment systems and financial applications on Sui that move, manage, and transform money intelligently, creating more seamless, automated, and composable financial experiences beyond traditional DeFi.
 
-在 Sui 上构建下一代 DeFi 和支付应用。涵盖去中心化金融协议、支付通道、钱包基础设施、BTCFi 以及 BTC 跨链到 Sui 的创新应用。
+在 Sui 上构建可编程支付系统和金融应用，智能地流转、管理和转化资金，创造超越传统 DeFi 的无缝、自动化、可组合的金融体验。
 
 ## Prize / 奖金
 
@@ -13,13 +13,13 @@ Build next-gen DeFi and payment apps on Sui. This track covers decentralized fin
 | 1st | $30,000 |
 | 2nd | $15,000 |
 | 3rd | $10,000 |
+| 4th | $7,500 |
 
 ## 参考方向 / Suggested Topics
 
-- DEX / AMM 协议
-- 借贷协议 (Lending / Borrowing)
-- BTCFi 与 BTC 跨链桥
-- 稳定币支付方案
-- 钱包基础设施
-- 跨链支付通道
-- 链上结算与对账
+- 可编程支付协议
+- 自动化金融工作流
+- 跨链支付与结算
+- 钱包基础设施与创新
+- BTCFi 与 BTC 跨链
+- 稳定币与链上法币通道

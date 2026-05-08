@@ -34,9 +34,9 @@ cp -r submissions/_template submissions/<你的GitHub用户名>
 - **项目名称** — 替换掉 `<Project Name>`
 - **赛道** — 在对应赛道前把 `[ ]` 改成 `[x]`，只选一个
 - **项目简介** — 一段话描述你做了什么
-- **链接** — 填上你的 GitHub 仓库地址，有 Demo 就填 Demo
+- **链接** — 填上你的 GitHub 仓库地址和 Demo 视频链接
 - **团队成员** — 写上所有成员的 `@github-id`
-- **合约地址** — 如果已经部署到 Sui，填上 package ID；没部署可以先留空
+- **部署信息** — 填上部署环境（Testnet/Mainnet）和 Package ID
 
 填完大概长这样：
 
@@ -49,23 +49,23 @@ cp -r submissions/_template submissions/<你的GitHub用户名>
 
 ## Description / 项目简介
 
-基于 Sui 的去中心化支付协议，支持多币种结算和链上自动对账。
+基于 Sui 的可编程支付协议，支持多币种自动结算和链上对账。
 
 ## Links / 链接
 
 - GitHub: https://github.com/myname/sui-pay
-- Demo: https://suipay.xyz
+- Demo: https://www.youtube.com/watch?v=xxx
+- Website: https://suipay.xyz
 
 ## Team / 团队成员
 
 - @myname
 - @partner-dev
 
-## Contract Address / 合约地址
+## Deployment / 部署信息
 
-\````
-0x1234...abcd
-\````
+- Env: Testnet
+- Package ID: 0x1234...abcd
 ```
 
 ### 4. 提交 PR
@@ -99,6 +99,36 @@ submissions/
 - 目录名 = 你的 **GitHub 用户名**
 - 只用小写字母、数字、连字符
 - 一个 GitHub ID 一个目录
+
+---
+
+## 官方参赛要求（提醒）
+
+正式参赛需在 [Sui Overflow 官网](https://overflow.sui.io/) 提交以下材料：
+
+| 字段 | 要求 |
+|------|------|
+| 项目名称 | 简洁明了 |
+| 项目描述 | 做什么，为什么重要 |
+| 项目 Logo | 1:1 比例 (JPG/PNG) |
+| GitHub 仓库 | 评审期间必须公开 |
+| Demo 视频 | 必须，YouTube 优先，≤ 5 分钟 |
+| 网站 | 可选，强烈建议 |
+| 部署环境 | Testnet 或 Mainnet |
+| Package ID | 如已部署链上 |
+
+### 评审标准
+
+- **产品体验** — 质量、可用性、打磨程度和整体用户体验
+- **解决问题** — 有意义的问题、市场相关性和长期价值
+- **技术质量** — 可靠性、与 Sui 的深度整合
+- **表达与愿景** — 表达清晰、叙事和长期愿景
+
+### 奖金发放
+
+- 获奖公布时发放 **50%**
+- 成功部署主网后发放剩余 **50%**
+- 截止时已部署主网的项目 → **100% 一次性发放**
 
 ---
 
